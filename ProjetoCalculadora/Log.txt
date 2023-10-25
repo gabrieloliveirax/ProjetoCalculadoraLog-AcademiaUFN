@@ -1,0 +1,6 @@
+out. 24, 2023 9:04:45 PM Main main
+WARNING: Iniciando a calculadora
+out. 24, 2023 9:07:49 PM Main main
+WARNING: Iniciando a calculadora
+out. 24, 2023 9:07:57 PM Main main
+WARNING: Terminando a calculadora
